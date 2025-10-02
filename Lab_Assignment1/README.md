@@ -1,14 +1,14 @@
-IRIVBOGBE, HUDSON EBADONOI 	- 30198787
+HUDSON EBADONOI IRIVBOGBE	- 30198787
 
-ADESANYA OLUMIDE 		- 30259243
+OLUMIDE ADESANYA  		- 30259243
 
-GINGRAS RYAN			- 30296615
+RYAN GINGRAS 			- 30296615
 
-
-
-
+JENISHA THAKAR			- 30121168
 
 
 
+This assignment is focused on the use of Git and python coding for the purpose of
 
+implementing collaborative coding using Google Colab and the application of least squares.
 
